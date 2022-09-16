@@ -1,0 +1,11 @@
+h2 {
+    background: brown;
+}
+p{
+    background: coral;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
