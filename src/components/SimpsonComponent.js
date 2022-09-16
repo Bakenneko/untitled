@@ -7,11 +7,9 @@ export default function SimpsonComponent(props) {
     return (
         <div className={classNameItem}>
 
-            <h2 align='center'>{name}  {age}</h2>
+            <h2 align='center'>{name} {age}</h2>
             <img  src={pic}/>
-            <p align= 'center'>
-                {biography}
-            </p>
+            <p align= 'center'>n{biography}</p>
 
 
 
